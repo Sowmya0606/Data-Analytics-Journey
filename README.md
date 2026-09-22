@@ -1,22 +1,21 @@
-# Data-Analytics-Journey
+
 # SQL Practice
 
-This folder contains my SQL learning and practice as part of my
-Data Analytics preparation.
+This section documents my SQL learning journey for Data Analytics.
 
-## Topics
-
-- SQL Basics 
+## Skills Covered
+- SQL Basics
+- Filtering and Sorting
 - Joins
 - Aggregations
 - Subqueries
-- CTEs
+- Common Table Expressions (CTEs)
 - Window Functions
-- Date Analysis
-- Business Problems
 
-## Practice Sources
+## Projects
+Coming soon...
 
-- SQLBolt
-- HackerRank
-- Interview Questions
+## Tools Used
+- MySQL
+- PostgreSQL
+- SQL Server
