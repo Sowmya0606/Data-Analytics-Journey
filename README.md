@@ -15,7 +15,3 @@ This section documents my SQL learning journey for Data Analytics.
 ## Projects
 Coming soon...
 
-## Tools Used
-- MySQL
-- PostgreSQL
-- SQL Server
